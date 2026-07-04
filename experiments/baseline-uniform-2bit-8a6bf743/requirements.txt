@@ -1,0 +1,7 @@
+accelerate==1.14.0
+datasets==5.0.0
+numpy==2.4.6
+protobuf==7.35.1
+sentencepiece==0.2.1
+torch==2.11.0+cu128
+transformers==5.13.0
